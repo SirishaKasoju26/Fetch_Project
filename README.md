@@ -1,4 +1,4 @@
-# Fetch_Project
+# QuickView Image
 This web application, powered by advanced JavaScript and the Fetch API, excels at seamlessly retrieving and showcasing images. It simplifies the process, providing a dynamic and responsive user experience. Crafted for efficiency and user-friendliness, this versatile tool adds substantial value to various applications.
 
 ## Demo
